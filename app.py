@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 # ==========================================
 
 st.set_page_config(
-    page_title="AI Content Generator",
+    page_title="AI Content",
     page_icon="🤖",
     layout="wide"
 )
